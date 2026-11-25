@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "186104508344",
+    "project_id": "habitflow-ffa1a",
+    "storage_bucket": "habitflow-ffa1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186104508344:android:66cd66f30e09b37cdb294d",
+        "android_client_info": {
+          "package_name": "com.example.habitflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186104508344-dpv7v0kvgn4lebu7lacv3kcgone8oevq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habitflow",
+            "certificate_hash": "7e291bb64dd6f126efaa87d9215594c9a6fc7550"
+          }
+        },
+        {
+          "client_id": "186104508344-46sh8rpkbtt8vkuasb06cik19iope6bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAGuQAGSiP-l-bx2JkvdpezbmDNHSsXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186104508344-46sh8rpkbtt8vkuasb06cik19iope6bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186104508344-u5er8stftfp06kkj8tp5rbkeke8smh7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habitflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
